@@ -1,0 +1,14 @@
+
+ #construction {
+     font-family: "Courier New", monospace;
+     line-height: 0;
+
+ }
+ #pyramid{
+     text-align: right;
+     margin-left: 51%;
+     display:inline-block;
+ }
+.header{
+    text-align: center;
+}
